@@ -24,14 +24,13 @@ Here are some ideas to get you started:
 
 🇨🇳 Shenzhen,China・🕹Web developer・想去 Tokyo
 
-https://overtrue.me
 
 如果你喜欢我的项目并想支持我，[点击这里 :heart:]()
 
 <!-- ![](https://gitwar.herokuapp.com/badge?username=overtrue&style=for-the-badge) -->
 
 
-[![Sponsor me](https://github.com/overtrue/overtrue/blob/master/sponsor-me-button-s.svg?raw=true)](https://github.com/sponsors/overtrue)
+[![Sponsor me](https://github.com/overtrue/overtrue/blob/master/sponsor-me-button-s.svg?raw=true)]()
 
 
 ![](https://github.com/overtrue/overtrue/raw/master/profile-3d-contrib/profile-south-season-animate.svg)
